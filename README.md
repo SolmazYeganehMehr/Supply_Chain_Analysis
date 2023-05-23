@@ -20,6 +20,9 @@ In this report, we have looked at some KPIs to determine the worst performers Su
 Two important KPIs for each of the poor performers are Total Defect and the Downtime cost.
 To see the interactive reports look at this link: 
 https://www.novypro.com/project/suppliers-risk-analysis-power-bi
+.
+.
+.
 ![image](https://github.com/SolmazYeganehMehr/Supply_Chain_Analysis/assets/26638652/31debc0f-9c96-4704-bc15-6babe68072bc)
 ![image](https://github.com/SolmazYeganehMehr/Supply_Chain_Analysis/assets/26638652/1cfac032-7111-4bd5-a285-03e1c1c17526)
 ![image](https://github.com/SolmazYeganehMehr/Supply_Chain_Analysis/assets/26638652/e25ae294-5c54-4cc8-9944-11d6dc5c0686)
