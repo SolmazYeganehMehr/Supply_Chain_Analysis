@@ -14,12 +14,15 @@ In Supply Chain Analytics, we use four kind of analytics. Each of them give diff
 2.	Diagnostic analytics tell us why that happened
 3.	Predictive analytics tell us what might happen in the future
 4.	Prescriptive analytics recommend us what we should do next
+
+
 If we do the Supply Chain Analytics right, we help the business to decrease risk, increase customer satisfaction and revenue 
 
 In this report, we have looked at some KPIs to determine the worst performers Suppliers/Vendors, Plants, materials, Categories of defects.
 Two important KPIs for each of the poor performers are Total Defect and the Downtime cost.
 
 To see the interactive reports look at this link: 
+
 https://www.novypro.com/project/suppliers-risk-analysis-power-bi
 
 ![image](https://github.com/SolmazYeganehMehr/Supply_Chain_Analysis/assets/26638652/31debc0f-9c96-4704-bc15-6babe68072bc)
